@@ -1,0 +1,10 @@
+C:\Users\GAMEPLAY\OneDrive\Masaüstü\Visual Studio KODLAR\BANKA\BANKA\bin\Debug\BANKA.exe.config
+C:\Users\GAMEPLAY\OneDrive\Masaüstü\Visual Studio KODLAR\BANKA\BANKA\bin\Debug\BANKA.exe
+C:\Users\GAMEPLAY\OneDrive\Masaüstü\Visual Studio KODLAR\BANKA\BANKA\bin\Debug\BANKA.pdb
+C:\Users\GAMEPLAY\OneDrive\Masaüstü\Visual Studio KODLAR\BANKA\BANKA\obj\Debug\BANKA.csproj.AssemblyReference.cache
+C:\Users\GAMEPLAY\OneDrive\Masaüstü\Visual Studio KODLAR\BANKA\BANKA\obj\Debug\BANKA.Form1.resources
+C:\Users\GAMEPLAY\OneDrive\Masaüstü\Visual Studio KODLAR\BANKA\BANKA\obj\Debug\BANKA.Properties.Resources.resources
+C:\Users\GAMEPLAY\OneDrive\Masaüstü\Visual Studio KODLAR\BANKA\BANKA\obj\Debug\BANKA.csproj.GenerateResource.cache
+C:\Users\GAMEPLAY\OneDrive\Masaüstü\Visual Studio KODLAR\BANKA\BANKA\obj\Debug\BANKA.csproj.CoreCompileInputs.cache
+C:\Users\GAMEPLAY\OneDrive\Masaüstü\Visual Studio KODLAR\BANKA\BANKA\obj\Debug\BANKA.exe
+C:\Users\GAMEPLAY\OneDrive\Masaüstü\Visual Studio KODLAR\BANKA\BANKA\obj\Debug\BANKA.pdb
